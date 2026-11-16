@@ -4,12 +4,22 @@ Coursework for the Software Engineering labs at **PES University, CSE**. This re
 
 ## Labs
 
-| Lab | Project | Directory |
+| Lab | Project or materials | Directory |
 | --- | --- | --- |
+| 1 | Lab assignment document | [Lab-1](Lab-1/) |
+| 2 | Lab assignment document | [Lab-2](Lab-2/) |
 | 3 | Software architecture and component diagram | [Lab-3](Lab-3/) |
 | 4 | Scenario 15: Connect Four vs AI | [Lab-4](Lab-4/) |
 | 5 | Static code analysis: Museum Artifact Catalog | [Lab-5](Lab-5/) |
 | 6 and 7 | Movie ticket pricing: code/branch coverage and fuzz testing | [Lab-6-7](Lab-6-7/) |
+
+### Lab 1
+
+Contains the Lab 1 assignment document.
+
+### Lab 2
+
+Contains the Lab 2 assignment document.
 
 ### Lab 3 — Software architecture
 
