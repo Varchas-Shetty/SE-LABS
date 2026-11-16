@@ -2,6 +2,10 @@
 
 Coursework for the Software Engineering labs at **PES University, CSE**. This repository brings together the lab assignments and their supporting code, reports, diagrams, and submission materials in one place.
 
+- **Name:** Varchas
+- **SRN:** PES2UG24CS575
+- **Section:** J
+
 ## Labs
 
 | Lab | Project or materials | Directory |
